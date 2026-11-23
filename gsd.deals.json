@@ -1,7 +1,7 @@
 [
   {
     "id": "post-alibaba-1795467451293",
-    "merchant": "Alibaba",
+    "merchant": "GetShopsDeals.co.uk Offer",
     "createdAt": "2026-11-23T20:57:31.293Z",
     "postedAt": "Today",
     "caption": "🔥 10,000mAh Magnetic Wireless Power Bank — £19.99! 🔋⚡\nPrice: £19.99 — available now on getshopsdeals.co.uk!\n\nFeatures: 10,000mAh capacity (Model KS-A26 by Kingstar) with magnetic wireless charging, PD22.5W fast charging support, LED display, two-way fast charging, waterproof build, and Micro USB, Type-C, and Double USB outputs in Black and Red (CE certified, with short-circuit, over-charging, over-discharging, and low-tension protection).",
@@ -12,7 +12,9 @@
       "https://s.alicdn.com/@sc04/kf/Hbb08e32164c0432aad3680fdef109dd3s.jpg?avif=close",
       "https://s.alicdn.com/@sc04/kf/H1bac86b055624a59a4b53854aa698b03A.jpg?avif=close"
     ],
-    "url": "https://buy.stripe.com/9B6bJ34NefkQ3zoeub04805"
+    "url": "https://buy.stripe.com/9B6bJ34NefkQ3zoeub04805",
+    "ctaLabel": "Buy Now",
+    "isDirectOffer": true
   },
   {
     "caption": "🚨 GETSHOPSDEALS.CO.UK OFFER — NEVER RUN OUT OF BATTERY OUTSIDE AGAIN! 🔋☀️🌧️\nMeet the Waterproof Solar Keychain Power Bank (listed up to 5000mAh) — clips right onto your bag, keys, or gear so backup power is always within reach!\n\n⚡ Why shoppers love it:\n• Official GetShopsDeals.co.uk offer — sold & fulfilled directly through our site\n• Built for outdoor & everyday carry — waterproof design + solar charging option\n• Complies with EU standards (new listing — no customer reviews yet)\n• Only GBP 23.00 via fast, direct online checkout\n\n📦 Dispatch & Tracking: Shipping options and tracking details sent after dispatch.\n👉 Click Buy Now to order directly from GetShopsDeals.co.uk",
@@ -161,3 +163,4 @@
     "video": "https://share.gemini.google/5cZYBIocJdEg"
   }
 ]
+   
