@@ -1,5 +1,21 @@
 [
   {
+    "id": "post-amazon-1795862699476",
+    "merchant": "Amazon",
+    "createdAt": "2026-11-28T10:44:59.476Z",
+    "postedAt": "Today",
+    "caption": "🔥 CIDER Women's Floral Sherpa Fleece Cropped Jacket — £32.07 (30% OFF Cyber Monday Deal) 🧥🌸✨\nSpecs: Plush double-lined polyester sherpa fleece with floral graphic print, high stand collar, front zipper closure, and functional pockets in an oversized cropped fit (4.2⭐️, 109 reviews; 300+ bought; Dark Navy at £32.07, Coffee at £34.21, Beige at £34.36, and Wine at £48.88 across sizes XS–XL).\n\nDelivery: Estimated Dec 7–9 to London with returns until Jan 31, 2027 from CIDER CLOTHING on Amazon.com.",
+    "video": "",
+    "image": "https://m.media-amazon.com/images/I/81KSH-1xHrL._AC_AIweblab1392912,T4_FMavif_SF988.5,1318.5_PQ65_.jpg?aicid=detailPage-mediaBlock",
+    "images": [
+      "https://m.media-amazon.com/images/I/81KSH-1xHrL._AC_AIweblab1392912,T4_FMavif_SF988.5,1318.5_PQ65_.jpg?aicid=detailPage-mediaBlock",
+      "https://m.media-amazon.com/images/I/81NOfH1ftjL._AC_AIweblab1392912,T4_FMavif_SF988.5,1318.5_PQ65_.jpg?aicid=detailPage-mediaBlock",
+      "https://m.media-amazon.com/images/I/71PlzrIjpJL._AC_AIweblab1392912,T4_FMavif_SF988.5,1318.5_PQ65_.jpg?aicid=detailPage-mediaBlock",
+      "https://m.media-amazon.com/images/I/81CluxVg9pL._AC_AIweblab1392912,T4_FMavif_SF988.5,1318.5_PQ65_.jpg?aicid=detailPage-mediaBlock"
+    ],
+    "url": "https://link.amazon/B05eJJaB0"
+  },
+  {
     "id": "post-lenovo-1795727857296",
     "merchant": "Lenovo",
     "createdAt": "2026-11-26T21:17:37.296Z",
@@ -201,16 +217,4 @@
     "url": "https://link.amazon/B03UDlO3u"
   },
   {
-    "id": "post-amazon-1795223272034",
-    "merchant": "Amazon",
-    "createdAt": "2026-11-22T00:54:00Z",
-    "postedAt": "Today 00:54",
-    "caption": "🔥 BLACK FRIDAY DEAL: ASUS ROG Swift PG32UCDP 32\" 4K OLED Gaming Monitor! 🎮⚡\nPrice & Value: Now only GBP 610.95 (List Price GBP 916.81 — 33% OFF, rated 4.5 ⭐️ with 296 reviews, and 100+ bought in the past month as a Black Friday Deal on Amazon.com).\n\nFeatures: 32-inch 4K (3840 x 2160) WOLED display with Dual Mode (switch between 4K @ 240Hz and FHD @ 480Hz), ultra-fast 0.03ms response time, G-SYNC Compatible, USB-C with 90W power delivery, true 10-bit color (99% DCI-P3), custom heatsink cooling, AI gaming tools, and a 3-year warranty with burn-in coverage.\n\nDelivery: In stock on Amazon.com with delivery as fast as Friday, November 27 (or Tuesday, December 1).",
-    "video": "",
-    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/91r2zbwGW3L._AC_SL1500_.jpg",
-    "images": [
-      "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/91r2zbwGW3L._AC_SL1500_.jpg"
-    ],
-    "url": "https://link.amazon/B0291mRwd"
-  }
-]
+    "id": "post-amazon-1795223
